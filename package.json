@@ -1,5 +1,5 @@
 {
-  "name": "kluster",
+  "name": "node-kluster",
   "version": "0.0.1",
   "description": "Kluster - library for create cluster solution base on weakly connected nodes.",
   "main": "index.js",
